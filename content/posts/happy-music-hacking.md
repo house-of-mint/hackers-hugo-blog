@@ -1,10 +1,10 @@
----
-author: arrrrrmin
-title: happy music hacking
-date: 2020-03-01
-description: let's try to learn orca an esoteric programming language for controling midi/udp messages
-tags: ["music", "arts"]
----
++++
+author= "arrrrrmin"
+title= "happy music hacking"
+date= "2020-03-01"
+description= "let's try to learn orca an esoteric programming language for controling midi/udp messages"
+tags= ["music", "arts"]
++++
 
 **Disclaimer**: Tbh ich hab keine Idee warum ich den Artikel auf englisch geschrieben hab. Aber jetzt is so, bin ehrlich gesagt zu faul das nochmal zu schreiben 🤷‍♂️.
 
