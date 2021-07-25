@@ -7,6 +7,7 @@ tags: [
     "markdown",
 ]
 math: true
+draft: true
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
