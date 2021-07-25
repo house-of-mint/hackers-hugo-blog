@@ -1,0 +1,17 @@
+name = "hackers-inn-hugo-theme"
+license = "public domain"
+licenselink = ""
+description = "hackers inn blog theme"
+homepage = "https://github.com/niklasbuschmann/contrast-hugo"
+tags = ["blog"]
+features = ["blog"]
+min_version = "0.41"
+
+[author]
+  name = "arrrrmin"
+  homepage = "https://github.com/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

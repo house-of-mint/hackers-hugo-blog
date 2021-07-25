@@ -1,0 +1,24 @@
+baseURL = ""
+
+title = "Hackers [ˈhakɐs] Inn Blog"
+author = "arrrrrmin"
+theme = "hackers-inn"
+languageCode = "en-us"
+
+[params]
+  minimal = false
+  excerpts = true
+  description = "Hackers in blog. Projects and stories of a non commercial organization."
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
