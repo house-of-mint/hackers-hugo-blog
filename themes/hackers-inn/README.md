@@ -1,44 +1,34 @@
-Adaption of the of [contrast](https://github.com/niklasbuschmann/contrast) Jekyll theme.
-
-## Installation
-
-To install Contrast as your default theme, first install this repository in the `themes/` directory:
-
-    $ cd themes/
-    $ git clone https://github.com/niklasbuschmann/contrast-hugo.git
-
-Second, specify `contrast-hugo` as your default theme in the `config.toml` file. Just add the line
-
-    theme = "contrast-hugo"
-
-at the top of the file.
+Adaption of the of [Contrast-Hugo](https://github.com/niklasbuschmann/contrast-hugo.git) Jekyll theme.
 
 ### Example config
 
-```
-title = "Davids Blog"
-author = "David Wallace"
-theme = "contrast-hugo"
+```toml
+name = "hackers-inn-hugo-theme"
+license = "public domain"
+licenselink = ""
+description = "hackers inn blog theme"
+homepage = "https://github.com/house-of-mint/hacksens-hugo-blog"
+tags = ["blog"]
+features = ["blog"]
+min_version = "0.41"
 
-[params]
-  minimal = false
-  excerpts = false
-  description = "my blog"
+[author]
+  name = "arrrrmin"
+  homepage = "https://github.com/house-of-mint/hacksens-hugo-blog"
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
 ```
 
 ## Based on
 
+- [Contrast-Hugo](https://github.com/niklasbuschmann/contrast-hugo)
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
 - [KaTeX](https://katex.org/)
 
 ## License
 
-[public domain](http://unlicense.org/)
+We simply carry on [public domain](http://unlicense.org/) as in [Contrast-Hugo](https://github.com/niklasbuschmann/contrast-hugo).
