@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>arts on Hackers [ˈhakɐs] Inn Blog</title><link>/tags/arts/</link><description>Recent content in arts on Hackers [ˈhakɐs] Inn Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>2021 - [Hackers Inn e.V.](https://house-of-mint.org/)</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/arts/index.xml" rel="self" type="application/rss+xml"/><item><title>happy music hacking</title><link>/posts/happy-music-hacking/</link><pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate><guid>/posts/happy-music-hacking/</guid><description>Disclaimer: Tbh ich hab keine Idee warum ich den Artikel auf englisch geschrieben hab. Aber jetzt is so, bin ehrlich gesagt zu faul das nochmal zu schreiben 🤷‍♂️.
+Programming with an esoteric programming language ORCA, as MIDI event generator, resulting in a programmatic approach to music :)
+AND IT&amp;rsquo;S FUN!!! :D:D:D
+Happy hacking!
+Example:
+ORCA overview ORCA is an esoteric programming language as stated by the inventors hundredrabbits.
+Basically it&amp;rsquo;s all about generating events, so called bangs.</description></item></channel></rss>
