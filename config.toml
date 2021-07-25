@@ -4,6 +4,7 @@ title = "Hackers [ˈhakɐs] Inn Blog"
 author = "arrrrrmin"
 theme = "hackers-inn"
 languageCode = "en-us"
+copyright = "2021 - [Hackers Inn e.V.](https://house-of-mint.org/)"
 
 [params]
   minimal = false
