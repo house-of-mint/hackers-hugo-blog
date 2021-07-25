@@ -7,7 +7,6 @@ languageCode = "en-us"
 copyright = "2021 - [Hackers Inn e.V.](https://house-of-mint.org/)"
 
 [params]
-  minimal = false
   excerpts = true
   description = "Hackers in blog. Projects and stories of a non commercial organization."
 
@@ -17,7 +16,6 @@ copyright = "2021 - [Hackers Inn e.V.](https://house-of-mint.org/)"
     name = "About"
     url = "/about/"
     weight = 10
-
 
 [taxonomies]
   category = "categories"
