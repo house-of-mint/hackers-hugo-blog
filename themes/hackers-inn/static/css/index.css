@@ -186,7 +186,7 @@ article header {
 }
 
 article header h1 {
-  font-size: 1.7em;
+  font-size: 1.3em;
   margin: 0 0 0.1em;
 }
 
@@ -216,6 +216,19 @@ nav a {
 
 .title {
   font-size: 1.3em;
+}
+
+.menu_icon, .menu_icon--no-hover {
+  height: 16px;
+  width: auto;
+}
+
+.menu_icon, .menu_icon--no-hover .menu_icon--path {
+  fill: var(--s-color-hackers__white)
+}
+
+.menu_icon:hover .menu_icon--path {
+  fill: var(--s-color-hackers__blue)
 }
 
 .more {
