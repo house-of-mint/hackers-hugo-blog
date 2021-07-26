@@ -5,6 +5,7 @@ author = "arrrrrmin"
 theme = "hackers-inn"
 languageCode = "en-us"
 copyright = "2021 - [Hackers Inn e.V.](https://house-of-mint.org/)"
+enableEmoji = true
 
 [params]
   excerpts = true
