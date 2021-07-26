@@ -1,7 +1,7 @@
 +++
 author = "arrrrrmin"
 title = "a hugo blog"
-date = "2020-07-26"
+date = "2021-07-26"
 description = "Hugo, blogs, Go, Github Pages wtf hab ich alles noch nicht gehört."
 tags = ["web", "blog"]
 draft = false
