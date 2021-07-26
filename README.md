@@ -18,13 +18,14 @@ brew install hugo
 
 ## features
 
+### emojis
+
+* [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
+* e.g. inline in markdown :woman_shrugging:
+
 ### highlighting
 
-Supported languages
-* `bash`
-* `java`
-* `javascript`
-* `python`
-* `c++`
+Supported languages: `bash`, `java`, `javascript`, `python`, `c++`, `yml`
 
-Just follow github-flavoured md syntax with `\`\`\`<lang>`.
+Just follow github-flavoured md syntax with "```"<lang>.
+
