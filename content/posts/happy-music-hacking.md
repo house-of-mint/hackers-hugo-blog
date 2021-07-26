@@ -18,7 +18,7 @@ Happy hacking!
 
 Example:
 
-![example](/media/example.gif)
+![example](../media/example.gif)
 
 ## ORCA overview
 
