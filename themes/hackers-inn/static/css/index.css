@@ -154,6 +154,14 @@ code {
   font-family: "rob-mono-medium", monospace;
 }
 
+a code {
+  color: var(--s-color-hackers__gray);
+}
+
+a:hover code {
+  color: var(--s-color-hackers__blue);
+}
+
 code.tag a:hover {
   color: var(--s-color-hackers__red);
 }
