@@ -1,0 +1,16 @@
+<nav>
+  {{/* Menu entries (see config.toml [menu]) */}}
+  {{ range $menu, $items := .Site.Menus }}
+    {{ range $items }}
+      <a href="{{ .URL }}"> {{ .Name }} </a>
+    {{ end }}
+  {{ end }}
+  {{/* Github Icon */}}
+  <a href="https://github.com/">
+    {{- partial "github-logo.html" . -}}
+  </a>
+  {{/* Twitter Icon */}}
+  <a href="https://twitter.com/">
+    {{- partial "twitter-logo.html" . -}}
+  </a>
+</nav>
